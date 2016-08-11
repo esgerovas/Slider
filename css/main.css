@@ -1,0 +1,10 @@
+#slider{
+	width: 900px;
+	margin:30px auto;
+	height:500px;
+	overflow: hidden;
+	position: relative;
+}
+img{
+	width: 100%;
+}
